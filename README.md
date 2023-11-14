@@ -21,6 +21,7 @@ There are 3 kinds of bugs :
 * **functional issues:** program compiles, run but does not do what it is expected, compare with description and video
 
 ### if you do not succeed to fix all required issues, you can download the following repository. As a consequence, your maximum note will be automatically truncated to 5. 
+[Task2 Repository](https://classroom.github.com/a/81c2r-uP)
 
 ## Task 2 : Factorize
 * Create the following class : game, projectile, invader, starship and move the related code
